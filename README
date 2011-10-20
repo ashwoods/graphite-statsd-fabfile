@@ -1,0 +1,6 @@
+
+Fabric fabfile for installing graphite on a debian based system.
+
+Graphite installs into /opt/graphite (still hardcoded)
+
+
